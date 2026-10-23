@@ -1,5 +1,5 @@
 body {
-  max-width: 100;
+  max-width: 100%;
   max-height: 3000px;
   background-color: #12121e;
   margin: 0;
@@ -62,6 +62,7 @@ nav a.active {
   font-weight: bold;
   flex-shrink: 0;
   box-shadow: 0 0 20px rgba(211, 164, 255, 0.25);
+  border: 0;
 }
 
 .hero {
